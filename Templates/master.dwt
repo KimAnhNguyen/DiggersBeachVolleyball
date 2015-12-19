@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Diggers Beach Volleyball</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+	<link rel="stylesheet" type="text/css" href="../Styles/mainstyle.css"/>
+   	<meta name="viewport" content="width=device-width, initial-scale=1.0" >
+</head>
+
+<body id="container">
+
+	<header id="mainheader">
+    	<div id="banner">
+	        <li><a href="index.html"><img src="Images/Logo.png" alt="Logo and slogan: Have fun and ace your health"></a></li>
+    	    <li><span class="slogan">Get involved - Have fun - Ace your Health</span></li>
+        </div>
+	<!-- TemplateBeginEditable name="EditRegion" -->    
+         <nav><ul>
+    		<li><a title="Home" href="index.html">Home</a></li>
+	        <li><a title="About Volleyball" href="about_volleyball.html">About Volleyball</a></li>
+    	    <li><a title="Who can play" href="who_can_play.html">Who can play</a></li>
+        	<li><a title="Competition Ladder" href="competition_ladder.html">Competition Ladder</a></li>
+            <li><a title="Special Offers & Events" href="special_offers_events.html">Special Offers &amp; Events</a></li>
+            <li><a title="Contact Us" href="contact_us.html">Contact Us</a></li>            
+	     </ul>
+	    </nav>
+    </header>
+    
+    <div id="maincontent">
+    	<div id="content">
+            <h2>First post</h2>    
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>             
+        </div>
+    </div>
+    
+     <!-- TemplateEndEditable -->
+	<aside id="topsidebar">
+    	<section>
+        	<h2><a href="sign_up.html" title="Sign Up">Join us</a></h2>            
+        </section>
+    </aside>
+        
+    <aside id="middlesidebar">   
+        <section>
+        	<h2><a title="More Links" href="more_links.html">More links</a></h2>
+            <ol>
+			   	<li><a target="_blank" href="http://www.volleyball.org/">Volleyball worldwide</a></li>
+				<li><a target="_blank" href="http://www.fivb.ch/en/beachvolleyball/">International Federation of Beach Volleyball (FIVB)</a></li>
+                <li><a target="_blank" href="http://www.asianvolleyball.net">Asian Volleyball Confederation (AVC)</a></li>
+			</ol> 
+            <p><a href="more_links.html">Read more</a></p>
+        </section>
+    </aside>    
+        
+    <footer id="mainfooter">
+    	<p>Copyright &copy;2015. All rights reserved. <a href="index.html" title="Diggers Beach Volleyball">Diggers Beach Volleyball</a></p>
+    </footer>
+</body>
+</html>
