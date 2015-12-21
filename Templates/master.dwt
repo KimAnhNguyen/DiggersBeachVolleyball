@@ -15,10 +15,15 @@
 
 	<header id="mainheader">
     	<div id="banner">
-	        <li><a href="index.html"><img src="Images/Logo.png" alt="Logo and slogan: Have fun and ace your health"></a></li>
-    	    <li><span class="slogan">Get involved - Have fun - Ace your Health</span></li>
+        	<div id="logo"><a href="index.html"><img src="Images/Logo.png" alt="logo" title="Diggers logo"></a></div>
+    		<div id="slogan">
+            	<div class="first_phrase">Get involved</div>
+                <div class="second_phrase">Have fun</div>
+                <div class="third_phrase">Ace your health</div>
+            </div>
         </div>
 	<!-- TemplateBeginEditable name="EditRegion" -->    
+         <div>
          <nav><ul>
     		<li><a title="Home" href="index.html">Home</a></li>
 	        <li><a title="About Volleyball" href="about_volleyball.html">About Volleyball</a></li>
@@ -28,6 +33,7 @@
             <li><a title="Contact Us" href="contact_us.html">Contact Us</a></li>            
 	     </ul>
 	    </nav>
+        </div>
     </header>
     
     <div id="maincontent">
