@@ -160,20 +160,15 @@ a:hover, a:active{
 }
 
 /*CSS for Home page*/
-#image_home_page{
-	width:96%;
-	padding:2%;
-	height:76%;
-}
-
 #table_home_page{
 	width:100%;
 	height:100%;
+	border:1;
 }
 
-#table_home_page img{
-	width:96%;
-	height:80%;
+#table_home_page tr td img{
+	width:200px;
+	height:200px;	
 }
 
 #table_home_page img:hover{
@@ -189,14 +184,14 @@ a:hover, a:active{
 /*CSS for about_volleyball*/
 .image_about_volleyball{
 	float:left;
-	width:30%;
+	width:20%;
 	height:100%;
 	overflow:hidden;
 }
 
 .image_about_volleyball div img{
-	width:80%;
-	height:16%;
+	max-width:120px;
+	max-height:120px;
 	float:left;
 	margin:2% 2%;
 	clear:both;	
@@ -214,14 +209,14 @@ a:hover, a:active{
 /*CSS for who_can_play*/
 .image_who_play{
 	float:left;
-	width:30%;
+	width:20%;
 	height:100%;
 	overflow:hidden;
 }
 
 .image_who_play div img{
-	width:80%;
-	height:16%;
+	max-width:120px;
+	max-height:120px;
 	float:left;
 	margin:2% 2%;
 	clear:both;	
