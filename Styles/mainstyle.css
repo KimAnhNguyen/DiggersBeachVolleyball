@@ -203,7 +203,7 @@ a:hover, a:active{
 
 .article_about_volleyball{
 	overflow:hidden;/*it stops text wrapping around the image*/
-	padding-left:0%;
+	padding-left:2.5%;
 }
 
 /*CSS for who_can_play*/
@@ -224,7 +224,7 @@ a:hover, a:active{
 
 .article_who_play{
 	overflow:hidden;/*it stops text wrapping around the image*/
-	padding-left:0%;
+	padding-left:2.5%;
 }
 
 /*CSS fir special offers and event, <strong> element*/
